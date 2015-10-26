@@ -43,4 +43,9 @@ class JsonHelper {
 
 	function __destruct() {
    	}
+
+   	public static function TestAutoloader() {
+   		echo "I'm here";
+   	}
+
 }
