@@ -1,0 +1,11 @@
+{
+    "name": "dmcguigan/composer-tools",
+    "description": "Library of classes to support using Composer.",
+    "license": "proprietary",
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
